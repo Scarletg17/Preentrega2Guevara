@@ -63,7 +63,7 @@ body {
 
 .header {
     height: 110vh !important;
-    background: url(img\ 7.jpg) no-repeat center;
+    background:url(./img\ 7.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -78,7 +78,7 @@ body {
 p {
     margin-bottom: 40px;
     font-size: 18px;
-    color: #d70993
+    color: #fff;
     padding: 0 100px;
 }
 
@@ -165,7 +165,7 @@ p {
 }
 
 .price {
-    background: url(/estilos/img\ 7.jpg) no-repeat center;
+    background: url(/img\ 7.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
@@ -187,6 +187,3 @@ p {
 @media (max-width:576px) {
 
 }
-    
-
-   
