@@ -6,7 +6,7 @@
     --title-color:#ffffff;
     --white-color:#ffffff;
     --light-bg-color:#f6f6f6;
-    --bg-color:#9032bb;
+    --bg-color:#157704;
 }
 
 html {
@@ -20,7 +20,7 @@ html {
 
 body,
 html {
-    background: var(--bg-color)!important;
+    background: #724AC8;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -2653,7 +2653,7 @@ li:last-child{
 }
 
 .tank-features-4 .features{
-    background: var(--bg-color);
+    background: #724AC8);
 }
 
 .tank-features-4 a.red {
